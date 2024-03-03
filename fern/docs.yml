@@ -1,8 +1,8 @@
 instances:
-  - url: petstore-openapi.docs.buildwithfern.com
+  - url: test123.docs.buildwithfern.com
 
 navigation:
-  - section: Get Started
+  - section: Get Started test
     contents: 
       - page: Welcome 
         path: ./docs/pages/welcome.mdx
